@@ -1,0 +1,9 @@
+#dropdown{
+    width: 200px;
+    height: auto;
+    font-size: 12px;
+    font-family: 'Segoe UI';
+    border: 1px solid #a8a8ab;
+    border-radius: 3px;
+    outline-style: none;
+}
